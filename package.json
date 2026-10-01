@@ -1,0 +1,14 @@
+{
+  "name": "konkurrenz-im-bwl-studium",
+  "version": "1.0.0",
+  "description": "Interaktive Web-App zur qualitativen Studie: Wie nehmen BWL-Bachelorstudierende Konkurrenz im Hochschulalltag wahr?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
